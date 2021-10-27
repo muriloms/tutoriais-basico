@@ -37,3 +37,6 @@
 
 ### Trazer branch remota para repositorio local
 `git branch <local-branch> <remote-repository>/<remote-branch>`
+
+### Quando precisa iniciar um repositório local
+`git pull origin master --allow-unrelated-histories`
